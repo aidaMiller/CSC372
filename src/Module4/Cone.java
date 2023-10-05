@@ -1,5 +1,5 @@
-
-public class Cone extends Shape{
+package Module4;
+public class Cone extends Shape {
 	
 	private double radius;
 	private double height;
