@@ -1,0 +1,4 @@
+Make		Model		 MPG 
+Chevy		Dodge		158.25
+Jeep		Wrangler		66000.0
+Tesla		X		253698.2
