@@ -1,0 +1,3 @@
+Make		Model		 MPG 
+Ford		F150		56789.0
+Tesla		X		78990.0
