@@ -8,13 +8,14 @@ public class StudentArrayListSort {
 		ArrayList<Student> students = new ArrayList<>();
 		
 		//Add several Student objects to the ArrayLIst
-		students.add(new Student(200, "Cindy", "198 Cinderella St"));
+		students.add(new Student(200, "Anna", "198 Cinderella St"));
 		students.add(new Student(201, "Bell", "645 Beuty and The Beast St"));
 		students.add(new Student(202, "Ariel", "276 Ocean St"));
 		students.add(new Student(203, "Moana", "787 Hawaii St"));
 		students.add(new Student(204, "Mulan", "123 China St"));
 		students.add(new Student(205, "Merida", "948 Brave St"));
 		students.add(new Student(206, "Elsa", "405 Frozen St"));
+		students.add(new Student(210, "Mia", "890 Frozen St"));
 		students.add(new Student(207, "Rapunzel", "658 Tangled St"));
 		students.add(new Student(208, "Tiana", "831 The Princess and the Frog St"));
 		students.add(new Student(209, "Aurora", "199 Sleeping Beauty St"));
